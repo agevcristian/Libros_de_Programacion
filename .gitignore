@@ -1,0 +1,11 @@
+
+# Ignorar cualquier archivo que no tenga extension
+*
+!*/ 
+!*.c 
+!*.h
+!*.tex 
+!*.md
+!.gitignore
+!Makefile
+
